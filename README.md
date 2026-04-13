@@ -36,7 +36,7 @@ Utiliser le site en local avec `npm run dev`.
 
 Adresse la plus frequente:
 
-   http://localhost:5173
+http://localhost:5173
 
 ### 3) Utilisation rapide
 
